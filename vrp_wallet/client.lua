@@ -1,3 +1,4 @@
+--omarkez er lækker
 RegisterNetEvent("vrp_wallet:setValues")
 AddEventHandler("vrp_wallet:setValues", function(wallet, bank)
 	SendNUIMessage({
